@@ -1,0 +1,1 @@
+lib/domains/ng/es/usal.txt
